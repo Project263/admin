@@ -11,6 +11,7 @@
     "commitlint": "commitlint --edit"
   },
   "dependencies": {
+    "@gravity-ui/uikit": "^6.23.1",
     "next": "14.2.5",
     "react": "^18",
     "react-dom": "^18"
