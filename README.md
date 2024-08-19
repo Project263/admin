@@ -1,1 +1,1 @@
-admin-nu-umber.vercel.app
+[Прод](admin.theaesthetics.ru)
