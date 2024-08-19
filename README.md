@@ -1,1 +1,1 @@
-[Прод](admin.theaesthetics.ru)
+[Прод](https://admin.theaesthetics.ru)
